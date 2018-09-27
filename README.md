@@ -2,7 +2,8 @@
 The dataset of our work where the application of portable Raman spectroscopy coupled with several supervised machine-learning techniques, is used to discern between diabetic patients (DM2) and healthy controls (Ctrl), with a high degree of accuracy. 
 Download dataset from: https://www.kaggle.com/codina/raman-spectroscopy-of-diabetes
 This script pre-processes the spectra to reproduce Fig. 1 of our paper:  
-E. Guevara, J. C. Torres-Galván, M. G. Ramírez-Elías, C. Luévano-Contreras, and F. J. González, “Use of Raman Spectroscopy to Screen Diabetes Mellitus with Machine Learning Tools,” Biomedical Optics Express, in press.
+Guevara, E., Torres-Galván, J. C., Ramírez-Elías, M. G., Luevano-Contreras, C., & González, F. J. (2018). Use of Raman spectroscopy to screen diabetes mellitus with machine learning tools. Biomedical Optics Express, 9(10), 4998–5010. https://doi.org/10.1364/BOE.9.004998
+
 _______________________________________________________________________________ 
 Copyright (C) 2018 Edgar Guevara, PhD 
 CONACYT-Universidad Autónoma de San Luis Potosí 
